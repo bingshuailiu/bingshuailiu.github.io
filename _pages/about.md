@@ -17,7 +17,7 @@ I am a first-year master's degree student of Xiamen University, advised by [Dr. 
 
 **Liu, Bingshuai**, Chenyang Lyu, Zijun Min, Zhanyu Wang, Jinsong Su, and Longyue Wang.
 
-<a href="https://arxiv.org/abs/2307.02971" title="Cultural Gap">**On the cultural gap in text-to-image generation.**</a>
+<a href="https://arxiv.org/abs/2307.02971" title="Cultural Gap">**On the cultural gap in text-to-image generation.**</a> **_ECAI 2024_**
 
 **Liu, Bingshuai**, Longyue Wang, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, and Zhaopeng Tu.
 
