@@ -15,15 +15,15 @@ I am a first-year master's degree student of Xiamen University, advised by [Dr. 
 
 <a href="https://arxiv.org/abs/2307.02971" title="Cultural Gap">**On the cultural gap in text-to-image generation.**</a> **_ECAI 2024_**
 
-**Bingshuai Liu***, Longyue Wang*, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, and Zhaopeng Tu.
+**Bingshuai Liu\***, Longyue Wang*, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, and Zhaopeng Tu.
 
 **Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval.** **_BIBM 2024_**
 
-Zijun Min*, **Bingshuai Liu***, Liang Zhang, Jia Song, Jinsong Su, Song He, and Xiaochen Bo.
+Zijun Min*, **Bingshuai Liu\***, Liang Zhang, Jia Song, Jinsong Su, Song He, and Xiaochen Bo.
 
 <a href="https://arxiv.org/abs/2312.01714" title="RA-CoT">**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models.**</a>
 
-**Bingshuai Liu***, Chenyang Lyu*, Zijun Min, Zhanyu Wang, Jinsong Su, and Longyue Wang.
+**Bingshuai Liu\***, Chenyang Lyu*, Zijun Min, Zhanyu Wang, Jinsong Su, and Longyue Wang.
 
 <a href="https://arxiv.org/abs/2306.09093" title="Macaw-LLM">**Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration.**</a>
 
