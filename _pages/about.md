@@ -17,6 +17,10 @@ I am a first-year master's degree student of Xiamen University, advised by [Dr. 
 
 **Liu, Bingshuai**, Longyue Wang, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, and Zhaopeng Tu.
 
+**Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval.** **_BIBM 2024_**
+
+Zijun Min, **Bingshuai Liu**, Liang Zhang, Jia Song, Jinsong Su, Song He, Xiaochen Bo.
+
 <a href="https://arxiv.org/abs/2312.01714" title="RA-CoT">**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models.**</a>
 
 **Liu, Bingshuai**, Chenyang Lyu, Zijun Min, Zhanyu Wang, Jinsong Su, and Longyue Wang.
