@@ -13,15 +13,15 @@ I am a second-year master's degree student of Xiamen University, advised by [Dr.
 
 # Publications
 
-<a href="https://arxiv.org/abs/2307.02971" title="Cultural Gap">**On the cultural gap in text-to-image generation.**</a> **_ECAI 2024_**
+<a href="https://ebooks.iospress.nl/doi/10.3233/FAIA240581" title="Cultural Gap">**On the cultural gap in text-to-image generation.**</a> **_ECAI 2024_**
 
 **Bingshuai Liu\***, Longyue Wang*, Chenyang Lyu, Yong Zhang, Jinsong Su, Shuming Shi, and Zhaopeng Tu.
 
-<a href="https://arxiv.org/abs/2307.02971" title="ORMA">**Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval.**</a> **_BIBM 2024 Regular Paper_**
+<a href="https://ieeexplore.ieee.org/abstract/document/10822800" title="ORMA">**Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval.**</a> **_BIBM 2024 Regular Paper_**
 
 Zijun Min*, **Bingshuai Liu\***, Liang Zhang, Jia Song, Jinsong Su, Song He, and Xiaochen Bo.
 
-<a href="https://arxiv.org/abs/2312.01714" title="RA-CoT">**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models.**</a>
+<a href="https://arxiv.org/abs/2312.01714" title="RA-CoT">**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models.**</a> **_IJCNN 2025_**
 
 **Bingshuai Liu\***, Chenyang Lyu*, Zijun Min, Zhanyu Wang, Jinsong Su, and Longyue Wang.
 
@@ -30,4 +30,5 @@ Zijun Min*, **Bingshuai Liu\***, Liang Zhang, Jia Song, Jinsong Su, Song He, and
 Lyu, Chenyang, Minghao Wu, Longyue Wang, Xinting Huang, **Bingshuai Liu**, Zefeng Du, Shuming Shi, and Zhaopeng Tu.
 
 # Internships
-- 2022.08-2023.07: Tencent AI Lab, Shenzhen. Methors: Dr. Longyue Wang and Dr. Zhaopeng Tu.
+- 2022.08-2023.07: Tencent AI Lab, Shenzhen. Mentors: Dr. Longyue Wang and Dr. Zhaopeng Tu.
+- 2024-07-: Li Auto, Beijing. Mentor: Hao Xu.
