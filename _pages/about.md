@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About me
-I am a second-year master's degree student of Xiamen University, advised by [Dr. Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm). I received my bachelor degree in School of Informatics, Xiamen University.
+I am a third-year master's degree student of Xiamen University, advised by [Dr. Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm). I received my bachelor degree in School of Informatics, Xiamen University.
 
 # Publications
 
