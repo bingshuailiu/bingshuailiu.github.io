@@ -11,6 +11,13 @@ redirect_from:
 # About me
 I am a third-year master's degree student of Xiamen University, advised by [Dr. Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm). I received my bachelor degree in School of Informatics, Xiamen University.
 
+# News
+
+- **[2025.09]** 🎉 Our new work **SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts** is released!  
+  SPEC-RL introduces speculative decoding into RLVR, achieving **2–3× rollout acceleration** without loss in reasoning accuracy.  
+  🔗 [GitHub Repository](https://github.com/ShopeeLLM/Spec-RL) | [Project Page](https://bingshuailiu.github.io/Spec-RL/)
+
+
 # Publications
 
 **EditEval: Towards Comprehensive and Automatic Evaluation for Text-guided Video Editing.** **_ACM MM 2025 Regular Paper_**
