@@ -20,7 +20,7 @@ I am a third-year master's degree student of Xiamen University, advised by [Dr. 
 
 # Publications
 
-**EditEval: Towards Comprehensive and Automatic Evaluation for Text-guided Video Editing.** **_ACM MM 2025 Regular Paper_**
+<a href="https://dl.acm.org/doi/10.1145/3746027.3755100" title="EditEval">**EditEval: Towards Comprehensive and Automatic Evaluation for Text-guided Video Editing.**</a> **_ACM MM 2025 Regular Paper_**
 
 **Bingshuai Liu\***, Ante Wang*, Zijun Min*, Chenyang Lyu, Longyue Wang, Zhihao Wang, Xu Han, Peng Li, Jinsong Su.
 
