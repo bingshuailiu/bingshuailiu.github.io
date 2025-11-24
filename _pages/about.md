@@ -41,6 +41,9 @@ Zijun Min*, **Bingshuai Liu\***, Liang Zhang, Jia Song, Jinsong Su, Song He, and
 
 Lyu, Chenyang, Minghao Wu, Longyue Wang, Xinting Huang, **Bingshuai Liu**, Zefeng Du, Shuming Shi, and Zhaopeng Tu.
 
+# Invited Talks
+- 2025-10: _SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts_, StepFun | [[slide](https://github.com/bingshuailiu/bingshuailiu.github.io/blob/master/assets/SPEC-RL-step-fun.pdf)]
+
 # Internships
 - 2022.08-2023.07: Tencent AI Lab, Shenzhen. Mentors: Dr. Longyue Wang and Dr. Zhaopeng Tu.
 - 2024-07-: Li Auto, Beijing. Mentor: Hao Xu.
