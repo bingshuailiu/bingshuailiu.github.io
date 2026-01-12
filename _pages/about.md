@@ -13,12 +13,23 @@ I am a third-year master's degree student of Xiamen University, advised by [Dr. 
 
 # News
 
-- **[2025.09]** 🎉 Our new work **SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts** is released!  
+- **[2026.01]** Our DHPO is released! Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR.
+  [arXiv](https://arxiv.org/pdf/2601.05607v1)  
+  
+- **[2025.09]** 🎉 Our new work **SPEC-RL: Accelerating On-Policy Reinforcement Learning with Speculative Rollouts** is released!  
   SPEC-RL introduces speculative decoding into RLVR, achieving **2–3× rollout acceleration** without loss in reasoning accuracy.  
   🔗 [GitHub Repository](https://github.com/ShopeeLLM/Spec-RL) | [Project Page](https://bingshuailiu.github.io/Spec-RL/)
 
 
-# Publications
+# Publications & Preprints
+
+<a href="https://arxiv.org/pdf/2601.05607v1" title="SPEC-RL">**Orchestrating Tokens and Sequences: Dynamic Hybrid Policy Optimization for RLVR.**</a> **_arXiv_**
+
+Zijun Min*, **Bingshuai Liu***, Ante Wang, Long Zhang, Anxiang Zeng, Haibo Zhang, Jinsong Su.
+
+<a href="https://arxiv.org/pdf/2509.23232v2" title="SPEC-RL">**SPEC-RL: Accelerating On-Policy Reinforcement Learning via Speculative Rollouts.**</a> **_arXiv_**
+
+**Bingshuai Liu***, Ante Wang*, Zijun Min*, Liang Yao, Haibo Zhang, Yang Liu, Xu Han, Peng Li, Anxiang Zeng, Jinsong Su.
 
 <a href="https://dl.acm.org/doi/10.1145/3746027.3755100" title="EditEval">**EditEval: Towards Comprehensive and Automatic Evaluation for Text-guided Video Editing.**</a> **_ACM MM 2025 Regular Paper_**
 
@@ -46,4 +57,5 @@ Lyu, Chenyang, Minghao Wu, Longyue Wang, Xinting Huang, **Bingshuai Liu**, Zefen
 
 # Internships
 - 2022.08-2023.07: Tencent AI Lab, Shenzhen. Mentors: Dr. Longyue Wang and Dr. Zhaopeng Tu.
-- 2024-07-: Li Auto, Beijing. Mentor: Hao Xu.
+- 2024-07-2025-04: Li Auto, Beijing. Mentor: Hao Xu.
+- 2025-06-: Shopee LLM Team, Shanghai. Mentor: Haibo Zhang.
